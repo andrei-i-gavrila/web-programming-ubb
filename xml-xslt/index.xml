@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<wikipedia>
+    <page>
+        <title>Wikipedia</title>
+        <description>
+            Wikipedia is a multilingual, web-based, free-content encyclopedia project supported by the Wikimedia Foundation and based on a model of openly editable content. Wikipedia is the largest and most popular general reference work on the Internet, and is named as one of the most popular websites. The project is owned by the Wikimedia Foundation, a non-profit which "operates on whatever monies it receives from its annual fund drives.
+        </description>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/225px-Wikipedia-logo-v2.svg.png</image>
+        <url>https://en.wikipedia.org/wiki/Wikipedia</url>
+    </page>
+    <page>
+        <title>LAMP</title>
+        <description>
+            A high-level overview of LAMP's building blocks and overall system environment, displayed here in combination with optionally used web caches.
+            LAMP is an archetypal model of web service stacks, named as an acronym of the names of its original four open-source components: the Linux operating system, the Apache HTTP Server, the MySQL relational database management system (RDBMS), and the PHP programming language. The LAMP components are largely interchangeable and not limited to the original selection. As a solution stack, LAMP is suitable for building dynamic web sites and web applications.
+        </description>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/LAMP_software_bundle.svg/600px-LAMP_software_bundle.svg.png</image>
+        <url>https://en.wikipedia.org/wiki/LAMP_(software_bundle)</url>
+    </page>
+    <page>
+        <title>Linux</title>
+        <description>
+            Linux is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution (or distro for short) for both desktop and server use. The defining component of a Linux distribution is the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Many Linux distributions use the word "Linux" in their name. The Free Software Foundation uses the name GNU/Linux to refer to the operating system family, as well as specific distributions, to emphasize that most Linux distributions are not just the Linux kernel, and that they have in common not only the kernel, but also numerous utilities and libraries, a large proportion of which are from the GNU project. This has led to some controversy.        </description>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png</image>
+        <url>https://en.wikipedia.org/wiki/Linux</url>
+    </page>
+    <page>
+        <title>Dial-up</title>
+        <description>
+            Dial-up Internet access is a form of Internet access that uses the facilities of the public switched telephone network (PSTN) to establish a connection to an Internet service provider (ISP) by dialing a telephone number on a conventional telephone line. The user's computer or router uses an attached modem to encode and decode information into and from audio frequency signals, respectively.        </description>
+        <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Modem-usr-courier-v34-front-online.jpg/330px-Modem-usr-courier-v34-front-online.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Dial-up_Internet_access</url>
+    </page>
+</wikipedia>
